@@ -1,6 +1,6 @@
-# Learning for Interactive robots 
+# Optical Illusion in Reinforcement Learning
 
-**Optical Illusion in Reinforcement Learning**
+
 
 A research project exploring how robotic agents trained with Reinforcement Learning algorithms handle visual illusions and perceptual ambiguities.
 
